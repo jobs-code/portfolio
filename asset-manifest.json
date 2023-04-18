@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.98f696f8.css",
-    "main.js": "/static/js/main.8607693d.js",
+    "main.js": "/static/js/main.4b5fc3e7.js",
     "static/js/787.446ce1b0.chunk.js": "/static/js/787.446ce1b0.chunk.js",
-    "static/media/ascom-showcase.gif": "/static/media/ascom-showcase.46f9ac9c1877c8185b9b.gif",
-    "static/media/3stap-showcase.gif": "/static/media/3stap-showcase.8071d4a55db1a9db9e5a.gif",
+    "static/media/movierate.gif": "/static/media/movierate.69daaad5c6fe1df2640a.gif",
+    "static/media/androidapp1.gif": "/static/media/androidapp1.57b3604fd633f4bbbf3d.gif",
     "static/media/html-crack-showcase.gif": "/static/media/html-crack-showcase.bbaf0e7f6d4e9cd48469.gif",
-    "static/media/terminal-showcase.gif": "/static/media/terminal-showcase.6b7ebb12ad47b717f201.gif",
+    "static/media/ubb.gif": "/static/media/ubb.ed003357542a63d71af1.gif",
     "index.html": "/index.html",
     "main.98f696f8.css.map": "/static/css/main.98f696f8.css.map",
-    "main.8607693d.js.map": "/static/js/main.8607693d.js.map",
+    "main.4b5fc3e7.js.map": "/static/js/main.4b5fc3e7.js.map",
     "787.446ce1b0.chunk.js.map": "/static/js/787.446ce1b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98f696f8.css",
-    "static/js/main.8607693d.js"
+    "static/js/main.4b5fc3e7.js"
   ]
 }
