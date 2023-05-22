@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.31f61ddd.css",
-    "main.js": "/static/js/main.23c58036.js",
+    "main.js": "/static/js/main.da0b28cc.js",
     "static/js/787.446ce1b0.chunk.js": "/static/js/787.446ce1b0.chunk.js",
+    "static/media/ariot.gif": "/static/media/ariot.666fda59276e520af718.gif",
     "static/media/movierate.gif": "/static/media/movierate.69daaad5c6fe1df2640a.gif",
     "static/media/androidapp1.gif": "/static/media/androidapp1.57b3604fd633f4bbbf3d.gif",
-    "static/media/html-crack-showcase.gif": "/static/media/html-crack-showcase.bbaf0e7f6d4e9cd48469.gif",
     "static/media/ubb.gif": "/static/media/ubb.ed003357542a63d71af1.gif",
     "index.html": "/index.html",
     "main.31f61ddd.css.map": "/static/css/main.31f61ddd.css.map",
-    "main.23c58036.js.map": "/static/js/main.23c58036.js.map",
+    "main.da0b28cc.js.map": "/static/js/main.da0b28cc.js.map",
     "787.446ce1b0.chunk.js.map": "/static/js/787.446ce1b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31f61ddd.css",
-    "static/js/main.23c58036.js"
+    "static/js/main.da0b28cc.js"
   ]
 }
